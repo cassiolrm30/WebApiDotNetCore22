@@ -1,0 +1,14 @@
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\bin\Debug\netcoreapp2.2\WebApiDotNetCore22.deps.json
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\bin\Debug\netcoreapp2.2\WebApiDotNetCore22.runtimeconfig.json
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\bin\Debug\netcoreapp2.2\WebApiDotNetCore22.runtimeconfig.dev.json
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\bin\Debug\netcoreapp2.2\WebApiDotNetCore22.dll
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.csproj.CoreCompileInputs.cache
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.RazorAssemblyInfo.cache
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.RazorAssemblyInfo.cs
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.AssemblyInfoInputs.cache
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.AssemblyInfo.cs
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.RazorTargetAssemblyInfo.cache
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\bin\Debug\netcoreapp2.2\WebApiDotNetCore22.pdb
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.dll
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.pdb
+C:\Users\Cassio\source\repos\WebApiDotNetCore22\WebApiDotNetCore22\obj\Debug\netcoreapp2.2\WebApiDotNetCore22.csprojAssemblyReference.cache
